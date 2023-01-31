@@ -1,1 +1,1 @@
-# This is a page for yatontse.github.io
+This is a page for yatontse.github.io
